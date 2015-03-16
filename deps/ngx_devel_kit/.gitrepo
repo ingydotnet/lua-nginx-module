@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:simpl/ngx_devel_kit.git
+	branch = v0.2.17
+	commit = bc97eea6d900013a8cd26b1117491dc513450d27
+	parent = f27a28071efa3b375a118688863f5b46fc78c14c
+	cmdver = 0.2.0
